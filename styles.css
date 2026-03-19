@@ -1,1 +1,13 @@
+body {
+    font-family: Cambria, serif;
+    background-color: #ffe6f0; 
+    text-align: center;
+}
 
+h1 {
+    color: #d63384;
+}
+
+p {
+    color: #6c3483; 
+}
